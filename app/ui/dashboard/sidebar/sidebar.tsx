@@ -2,7 +2,7 @@ import { menuItems } from "@/app/lib/utils";
 import styles from "./sidebar.module.css";
 import MenuLink from "./menuLink/menuLink";
 import Image from "next/image";
-import Avatar from "./avatar/avatar";
+import Avatar from "../avatar/avatar";
 import { MdLogout } from "react-icons/md";
 
 export default function Sidebar() {
